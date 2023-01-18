@@ -26,6 +26,12 @@ const colorConfigs: { [key: string]: ColorConfigInterface } = {
     backgroundColor: '#000',
     buttonColor: 'secondary',
   },
+  'palette-8. Dark Background (#202020)': {
+    headlineColor: '#fff',
+    textColor: '#fff',
+    backgroundColor: '#202020',
+    buttonColor: 'secondary',
+  },
   'palette-2. White Smoke (#FCFCFC)': {
     headlineColor: '#1B273A',
     textColor: '#414D63',
@@ -50,10 +56,10 @@ const colorConfigs: { [key: string]: ColorConfigInterface } = {
     backgroundColor: '#bbbbbb',
     buttonColor: 'primary',
   },
-  'palette-6. Dark Gray (#797979)': {
+  'palette-6. Dark Gray (#202020)': {
     headlineColor: '#fff',
     textColor: '#fff',
-    backgroundColor: '#797979',
+    backgroundColor: '#202020',
     buttonColor: 'secondary',
   },
 };
